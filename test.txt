@@ -1,1 +1,1 @@
-This is Devops Class, i am learning remote repo
+This is Devops Class, i am learning remote repo, learning pull,push,clone and fetch
